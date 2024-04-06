@@ -6,7 +6,7 @@ Meu nome é Christian  Lima
 - Estou me desenvolvendo na linguagem HTML e CSS
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato 📪
+### Você pode entrar em contato comigo📪
 
 christian.castro@escola.pr.gov.br
 
